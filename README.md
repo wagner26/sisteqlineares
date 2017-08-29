@@ -1,2 +1,2 @@
-# sisteqlineares
+# Resolução de sistemas lineares
 sisteqlineares
