@@ -1,2 +1,8 @@
+
 # Resolução de sistemas lineares
-sisteqlineares
+#sisteqlineares
+
+main()
+{
+
+}
